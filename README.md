@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Adentalis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Adentalis/Adentalis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in cyber security, dlt, web development and open source projects.
+- 🌱 I’m currently learning writing chrome plugins and networking.
+- 💞️ I’m looking to collaborate on anything I'm interested in.
+- 📫 You can write me daniel.niemczyk96@gmail.com
